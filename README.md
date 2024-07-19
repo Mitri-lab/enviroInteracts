@@ -14,7 +14,7 @@ Contains the following sub-folders:
 
 ### Models
 
-Contains two Jupyter notebooks, Degrader-crossfeeder model.ipynb and Toxin-nutrient model.ipynb that can be used to reproduce the simulations and figures presented in the manuscript. More exact specifications of the code used to generate each figure is given in the notebooks.
+Contains three Jupyter notebooks, Degrader-crossfeeder model.ipynb, Toxin-nutrient model.ipynb and TilmanSuccession.ipynb that can be used to reproduce the simulations and figures presented in the manuscript. More exact specifications of the code used to generate each figure is given in the notebooks.
 
 ## References
 
