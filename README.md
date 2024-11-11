@@ -17,7 +17,7 @@ Contains the following sub-folders:
    - 'Ct CFUs' and 'At CFUs': Estimated density of colony forming units (CFUs) in flasks at the indicated timepoints.
    - 'R formatting': Data from 'Ct' and 'Ct CFUs' consolidated to facilitate plotting in R.
 
-     See https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/documents/312/635/mak545pis-mk.pdf for further details of the assay and calculations involved.
+     See https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/documents/312/635/mak545pis-mk.pdf for further details of the nitrocefin assay and calculations involved.
    'Plot_16_02_23_BetaLactamaseAssays.R' reads the data from this workbook and plots it.
 
 ### Models
